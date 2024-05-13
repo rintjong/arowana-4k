@@ -1,0 +1,336 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "FACEBOOK",
+      "select_backup_ads":"APPLOVIN-M",
+      "main_ads_banner": "365006292929013_365006939595615x",
+      "main_ads_intertitial":"365006292929013_365007142928928x",
+      "main_ads_rewards":"null",
+      "main_ads_natives":"365006292929013_365007312928911x",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "backup_ads_rewards":"21b4d718275ca0a9",
+      "backup_ads_natives":"null",
+      "open_ads_admob":"null",
+      "open_ads_alien":"null",
+      "open_ads_max":"null",
+      "interval_intertitial": 5,
+      "initialize_sdk":"null",
+      "initialize_sdk_backup_ads":"null",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+   
+    }
+  ],
+    "More":
+  [
+    {
+      "id":1,
+      "title":"Enchanting Deer Wallpapers",
+      "image":"https://play-lh.googleusercontent.com/4duhdqFg5KOz5K77nY-U8NKI00TvveSj8kUMrCddo8Gxyz6PAYyLFU0RD1g20oocloE=w2560-h1440-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.rintjong.whitetaileddeer"
+    },
+    {
+      "id":2,
+      "title":"Blooming Daisy Wallpapers",
+      "image":"https://play-lh.googleusercontent.com/MfkZ_4y0xRNv77vVkTYI0AOxgVgXUW7xCYXChm7YMTDvNMSgeBqx5c6IR6DKi_hmDA=w526-h296-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.rintjong.daisyflowerwallpaper"
+    },
+    {
+      "id":3,
+      "title":"Thrilling Speedboat Wallpapers",
+      "image":"https://play-lh.googleusercontent.com/RWyAPL8gM47jewkU6yOgLaJfE1Y9N_A1FGojcncaVme7GbttGG7MwG14N6cnkl0WVg=w2560-h1440-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.rintjong.speedboatracingwallpaper"
+    }
+  ],
+
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Arowana",
+      "image": "https://i.pinimg.com/564x/2f/74/93/2f7493bd117e615862c8eac60abf4030.jpg"
+
+    }
+  ],
+
+  "Data":
+  [
+    
+    {
+      "id": 2,
+      "name_category": "Arowana",
+      "title": "Arowana",
+      "image": "https://i.pinimg.com/564x/46/74/34/4674346aa3c223b3a9a8400ccb7b4630.jpg","lock":false
+    },
+    {
+      "id":3,
+      "name_category": "Arowana",
+      "title":"Arowana",
+      "image":"https://i.pinimg.com/564x/84/fe/0c/84fe0c1930d2b80d124033af3a17a5d1.jpg","lock":false
+    },
+    {
+      "id":4,
+      "name_category": "Arowana",
+      "title":"Arowana",
+      "image":"https://i.pinimg.com/564x/b5/33/1c/b5331c45363df42d5235863c7c9ef375.jpg","lock":false
+    },
+    {
+      "id":5,
+      "name_category": "Arowana",
+      "title":"Arowana",
+      "image":"https://i.pinimg.com/564x/74/08/d2/7408d20b35db927b876391ce19db0a03.jpg","lock":false
+    },
+    {
+      "id":6,
+      "name_category": "Arowana",
+      "title":"Arowana",
+      "image":"https://i.pinimg.com/564x/4f/60/a6/4f60a6866f39a59e397d34839030fdce.jpg""lock":false
+    },
+	{
+      "id":7,
+      "name_category": "Arowana",
+      "title":"Arowana",
+      "image":"https://i.pinimg.com/564x/c8/be/bf/c8bebf4aa91d466eda1c5b5ea7fad140.jpg","lock":false
+    },
+    {
+      "id": 8,
+      "name_category": "Arowana",
+      "title": "Arowana",
+      "image": "https://i.pinimg.com/564x/1c/6e/ee/1c6eeec8b915570734521e839b479b0c.jpg","lock":false
+    },
+    {
+      "id":9,
+      "name_category": "Arowana",
+      "title":"Arowana",
+      "image":"https://i.pinimg.com/564x/19/c2/0f/19c20f71ce37a97523fb98dfb5c8e2f7.jpg","lock":false
+    },
+    {
+      "id":10,
+      "name_category": "Arowana",
+      "title":"Arowana",
+      "image":"https://i.pinimg.com/564x/03/0f/cb/030fcbe7dc8c07b92c696dfe0ced399c.jpg","lock":false
+    },
+    {
+      "id":11,
+      "name_category": "Arowana",
+      "title":"Arowana",
+      "image":"https://i.pinimg.com/564x/4a/f2/56/4af256c506deca007b8551982b0176d6.jpg","lock":false
+    },
+	{
+      "id":12,
+      "name_category": "Arowana",
+      "title":"Arowana",
+      "image":"https://i.pinimg.com/564x/67/fc/66/67fc66e259b9fb60d0e44096424eae48.jpg","lock":false
+    },
+    {
+      "id": 13,
+      "name_category": "Arowana",
+      "title": "Arowana",
+      "image": "https://i.pinimg.com/564x/81/db/bc/81dbbc109f3a0bcb1a6652f75f6f14ac.jpg","lock":false
+    },
+    {
+      "id":14,
+      "name_category": "Arowana",
+      "title":"Arowana",
+      "image":"https://i.pinimg.com/564x/3c/1d/aa/3c1daa50dddba2e8f55d95f0d8a26862.jpg","lock":false
+    },
+    {
+      "id":15,
+      "name_category": "Arowana",
+      "title":"Arowana",
+      "image":"https://i.pinimg.com/564x/01/82/66/01826677d45914f290957dd0017aa828.jpg","lock":false
+    },
+    {
+      "id":16,
+      "name_category": "Arowana",
+      "title":"Arowana",
+      "image":"https://i.pinimg.com/564x/f4/2e/62/f42e62e3a72980fe9ee36e81cabfe515.jpg","lock":false
+    },
+    {
+      "id":17,
+      "name_category": "Arowana",
+      "title":"Arowana",
+      "image":"https://i.pinimg.com/564x/7d/38/3f/7d383f5fde3aa395f8dd6028804048c4.jpg","lock":false
+    },
+	{
+      "id":18,
+      "name_category": "Arowana",
+      "title":"Arowana",
+      "image":"https://i.pinimg.com/564x/8b/d0/48/8bd0480b772aa2bd23fd798e7a51b4f9.jpg","lock":false
+    },
+    {
+      "id": 19,
+      "name_category": "Arowana",
+      "title": "Arowana",
+      "image": "https://i.pinimg.com/564x/63/1e/62/631e620db137eac3183a369a34ae7b2a.jpg","lock":false
+    },
+    {
+      "id":20,
+      "name_category": "Arowana",
+      "title":"Arowana",
+      "image":"https://i.pinimg.com/564x/7e/a1/8f/7ea18f2eb80dfef2e2bcbfcbdddd4e97.jpg","lock":false
+    },
+    {
+      "id":21,
+      "name_category": "Arowana",
+      "title":"Arowana",
+      "image":"https://i.pinimg.com/564x/3b/b5/ca/3bb5ca4e0fdadf68785a34c5e8b3cd11.jpg","lock":false
+    },
+    {
+      "id":22,
+      "name_category": "Arowana",
+      "title":"Arowana",
+      "image":"https://i.pinimg.com/564x/b7/4d/33/b74d33c51f8508e668ec422b292ef859.jpg","lock":false
+    },
+	{
+      "id":23,
+      "name_category": "Arowana",
+      "title":"Arowana",
+      "image":"https://i.pinimg.com/564x/fe/44/6a/fe446ae57b20e49fc93eb0032cb6a9ba.jpg","lock":false
+    },
+    {
+      "id": 24,
+      "name_category": "Arowana",
+      "title": "Arowana",
+      "image": "https://i.pinimg.com/564x/55/8b/98/558b98bd5a8a7d2c49d364fc17174d1f.jpg","lock":false
+    },
+    {
+      "id":25,
+      "name_category": "Arowana",
+      "title":"Arowana",
+      "image":"https://i.pinimg.com/564x/87/7b/cd/877bcd588330aa006f104c086c1a0e6a.jpg","lock":false
+    },
+    {
+      "id":26,
+      "name_category": "Arowana",
+      "title":"Arowana",
+      "image":"https://i.pinimg.com/564x/84/1e/b9/841eb9521876f56caf70df2ea05a5138.jpg","lock":false
+    },
+    {
+      "id":27,
+      "name_category": "Arowana",
+      "title":"Arowana",
+      "image":"https://i.pinimg.com/564x/2f/74/93/2f7493bd117e615862c8eac60abf4030.jpg","lock":false
+    },
+    {
+      "id":28,
+      "name_category": "Arowana",
+      "title":"Arowana",
+      "image":"https://i.pinimg.com/564x/a1/e4/8b/a1e48b378b82ad5cd1dde5d48adbd379.jpg","lock":false
+    },
+	{
+      "id":29,
+      "name_category": "Arowana",
+      "title":"Arowana",
+      "image":"https://i.pinimg.com/564x/a6/da/65/a6da65ad90d3eb3e599c4136b1efd9e7.jpg","lock":false
+    },
+    {
+      "id": 30,
+      "name_category": "Arowana",
+      "title": "Arowana",
+      "image": "https://i.pinimg.com/564x/7d/bd/87/7dbd875105ce786091422f9f4ddb044d.jpg","lock":false
+    },
+    {
+      "id":31,
+      "name_category": "Arowana",
+      "title":"Arowana",
+      "image":"https://i.pinimg.com/564x/09/4f/40/094f40e711ca8eadb3bd1e92e83743c5.jpg","lock":false
+    },
+    {
+      "id":32,
+      "name_category": "Arowana",
+      "title":"Arowana",
+      "image":"https://i.pinimg.com/564x/ff/0b/4e/ff0b4e2a880ccde557612c7abfc41b76.jpg","lock":false
+    },
+	{
+      "id":33,
+      "name_category": "Arowana",
+      "title":"Arowana",
+      "image":"https://i.pinimg.com/564x/a7/e3/95/a7e3954e7a2a6f586804345002bb1927.jpg","lock":false
+    },
+    {
+      "id": 34,
+      "name_category": "Arowana",
+      "title": "Arowana",
+      "image": "https://i.pinimg.com/564x/a7/34/8a/a7348a61159a882c327d2a6ee7460691.jpg","lock":false
+    },
+    {
+      "id":35,
+      "name_category": "Arowana",
+      "title":"Arowana",
+      "image":"https://i.pinimg.com/564x/eb/7a/43/eb7a433619b043192d7cd921ecf65194.jpg","lock":false
+    },
+    {
+      "id":36,
+      "name_category": "Arowana",
+      "title":"Arowana",
+      "image":"https://i.pinimg.com/564x/d5/6a/00/d56a00a03f26533e71b78511e8a61026.jpg","lock":false
+    },
+    {
+      "id":37,
+      "name_category": "Arowana",
+      "title":"Arowana",
+      "image":"https://i.pinimg.com/564x/0a/7d/78/0a7d78ac1c7a5950dd690731b2be2414.jpg","lock":false
+    },
+    {
+      "id":38,
+      "name_category": "Arowana",
+      "title":"Arowana",
+      "image":"https://i.pinimg.com/564x/12/86/67/128667472b5317900c6c9c9acf93ace1.jpg","lock":false
+    },
+	{
+      "id":39,
+      "name_category": "Arowana",
+      "title":"Arowana",
+      "image":"https://i.pinimg.com/564x/9b/d2/84/9bd284d95da08a72f6bd18f296a50f30.jpg","lock":false
+    },
+    {
+      "id": 40,
+      "name_category": "Arowana",
+      "title": "Arowana",
+      "image": "https://i.pinimg.com/564x/53/51/29/53512995e1efccb465439e7fd33a7ed9.jpg","lock":false
+    },
+    {
+      "id":41,
+      "name_category": "Arowana",
+      "title":"Arowana",
+      "image":"https://i.pinimg.com/564x/5e/aa/6a/5eaa6a41558a8cc6991a62c943a11d5b.jpg","lock":false
+    },
+    {
+      "id":42,
+      "name_category": "Arowana",
+      "title":"Arowana",
+      "image":"https://i.pinimg.com/564x/d7/4d/e8/d74de8e988ab8c8db33bfd5fb2669605.jpg","lock":false
+    },
+	{
+      "id": 43,
+      "name_category": "Arowana",
+      "title": "Arowana",
+      "image": "https://i.pinimg.com/564x/d1/db/b5/d1dbb56bf48a3c1163b1834f8ff4c12b.jpg","lock":false
+    },
+	{
+      "id": 44,
+      "name_category": "Arowana",
+      "title": "Arowana",
+      "image": "https://i.pinimg.com/564x/83/14/aa/8314aad6e12116a0b1640d9334309689.jpg","lock":false
+    },
+    {
+      "id":45,
+      "name_category": "Arowana",
+      "title":"Arowana",
+      "image":"https://i.pinimg.com/564x/2c/cc/1d/2ccc1dc1cbec0e92b1315c4a60df4e81.jpg","lock":false
+    },
+    {
+      "id":46,
+      "name_category": "Arowana",
+      "title":"Arowana",
+      "image":"https://i.pinimg.com/564x/6e/11/aa/6e11aa04947b4aae371819174d68752c.jpg"
+      "lock":false
+    }
+  ]
+}
