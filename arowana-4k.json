@@ -30,24 +30,24 @@
     "More":
   [
     {
-      "id":1,
-      "title":"Enchanting Deer Wallpapers",
-      "image":"https://play-lh.googleusercontent.com/4duhdqFg5KOz5K77nY-U8NKI00TvveSj8kUMrCddo8Gxyz6PAYyLFU0RD1g20oocloE=w2560-h1440-rw",
-      "link":"https://play.google.com/store/apps/details?id=com.rintjong.whitetaileddeer"
-    },
-    {
-      "id":2,
-      "title":"Blooming Daisy Wallpapers",
-      "image":"https://play-lh.googleusercontent.com/MfkZ_4y0xRNv77vVkTYI0AOxgVgXUW7xCYXChm7YMTDvNMSgeBqx5c6IR6DKi_hmDA=w526-h296-rw",
-      "link":"https://play.google.com/store/apps/details?id=com.rintjong.daisyflowerwallpaper"
-    },
-    {
-      "id":3,
-      "title":"Thrilling Speedboat Wallpapers",
-      "image":"https://play-lh.googleusercontent.com/RWyAPL8gM47jewkU6yOgLaJfE1Y9N_A1FGojcncaVme7GbttGG7MwG14N6cnkl0WVg=w2560-h1440-rw",
-      "link":"https://play.google.com/store/apps/details?id=com.rintjong.speedboatracingwallpaper"
-    }
-  ],
+			"id": 1,
+			"title": "Cool Aesthetic Wallpaper ",
+			"image": "https://play-lh.googleusercontent.com/0vy-dKP22kEam_9yOnAWpCiDqHug5PhNx5A6y04muBlw0Svy6OuHZTq1XDho8S1rtqTd=w240-h480-rw",
+			"link": "https://play.google.com/store/apps/details?id=com.rintjong.wallpaperaesthetic"
+		},
+		{
+			"id": 2,
+			"title": "4K HD Wallpapers",
+			"image": "https://play-lh.googleusercontent.com/-dVTrS8scTittKLTqffmgQ65t2y4EP-lMRdcYEc2XlG_upCuNunFt6SCacfQz1c0tA=w240-h480-rw",
+			"link": "https://play.google.com/store/apps/details?id=com.rintjong.hdwallpaper4k"
+		},
+		{
+			"id": 3,
+			"title": "Islamic Aesthetic Wallpaper",
+			"image": "https://play-lh.googleusercontent.com/EsxGalCWZAKvCBaY1UOldvz1oWIasRdQs10aH9Zegj_qY2Hwr7_z1V3xSRQLIlhvAW8=w240-h480-rw",
+			"link": "https://play.google.com/store/apps/details?id=com.rintjong.islamicwallpaper4k"
+		}
+	],
 
   "Categories": [
     {
